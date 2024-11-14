@@ -1,7 +1,7 @@
 ### Hi there 🖖🏻
-My name is Lucas Briz and I'm a brazillian Software Development student. 
+My name is Lucas Briz and I'm a brazillian Backend Software Developer. 
 
-- 🔭 I’m currently working on [iFood](https://institucional.ifood.com.br/) as Engineering Logistics Intern, learning and using backend technologies such as Java, Spring Boot, PostgreSQL, Kong, Swagger, Amazon SQS, SNS and DynamoDB.
+- 🔭 I’m currently working on [iFood](https://institucional.ifood.com.br/) as a Backend Software Developer Jr, learning and using backend technologies such as Python, Databricks, Java, Spring Boot, PostgreSQL, Kong, Swagger, AWS, Kafka and Datadog.
 - 😄 My pronouns are he/him.
 - 📫 How to contact me: by my personal e-mail: lucasbriz@outlook.com or [Linkedin](https://www.linkedin.com/in/lucas-santos-briz/).
 
